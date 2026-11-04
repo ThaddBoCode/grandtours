@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2027
+BEGIN:VEVENT
+UID:tdf-2027-stage-8@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:Tour de France 2027 – Tappa 8: Bourges → Le Creusot
+LOCATION:Bourges
+DESCRIPTION:224 km · Collinare · Orario da definire\nhttps://thaddbocode
+ .github.io/grandtours/it/tdf/2027/stages/8/
+URL:https://thaddbocode.github.io/grandtours/it/tdf/2027/stages/8/
+END:VEVENT
+END:VCALENDAR

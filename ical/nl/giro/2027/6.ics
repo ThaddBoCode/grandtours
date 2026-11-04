@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Giro d'Italia 2027
+BEGIN:VEVENT
+UID:giro-2027-stage-6@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Giro d'Italia 2027 – Etappe 6: Alba Adriatica → Lanciano
+LOCATION:Alba Adriatica
+DESCRIPTION:148 km · Heuvelachtig · Starttijd volgt\nhttps://thaddbocode
+ .github.io/grandtours/nl/giro/2027/stages/6/
+URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/6/
+END:VEVENT
+END:VCALENDAR

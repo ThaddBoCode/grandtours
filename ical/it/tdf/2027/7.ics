@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2027
+BEGIN:VEVENT
+UID:tdf-2027-stage-7@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Tour de France 2027 – Tappa 7: Blois → Chambord
+LOCATION:Blois
+DESCRIPTION:38 km · Cronometro individuale · Orario da definire\nhttps:/
+ /thaddbocode.github.io/grandtours/it/tdf/2027/stages/7/
+URL:https://thaddbocode.github.io/grandtours/it/tdf/2027/stages/7/
+END:VEVENT
+END:VCALENDAR

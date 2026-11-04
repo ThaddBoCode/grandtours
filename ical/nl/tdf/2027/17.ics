@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2027
+BEGIN:VEVENT
+UID:tdf-2027-stage-17@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:Tour de France 2027 – Etappe 17: Muret → Pau
+LOCATION:Muret
+DESCRIPTION:186 km · Vlak · Starttijd volgt\nhttps://thaddbocode.github.
+ io/grandtours/nl/tdf/2027/stages/17/
+URL:https://thaddbocode.github.io/grandtours/nl/tdf/2027/stages/17/
+END:VEVENT
+END:VCALENDAR

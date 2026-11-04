@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Giro d'Italia 2027
+BEGIN:VEVENT
+UID:giro-2027-stage-1@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Giro d'Italia 2027 – Etapa 1: Trst ↻
+LOCATION:Trst
+DESCRIPTION:172 km · Razgibana · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/1/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/1/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-2@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:Giro d'Italia 2027 – Etapa 2: Ljubljana → Koper
+LOCATION:Ljubljana
+DESCRIPTION:166 km · Razgibana · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/2/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/2/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-3@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Giro d'Italia 2027 – Etapa 3: Cervignano del Friuli → Possagno
+LOCATION:Cervignano del Friuli
+DESCRIPTION:163 km · Razgibana · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/3/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/3/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-4@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:Giro d'Italia 2027 – Etapa 4: Argenta → Misano Adriatico (Auto
+ dromo Marco Simoncelli)
+LOCATION:Argenta
+DESCRIPTION:151 km · Ravninska · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/4/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/4/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-5@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Giro d'Italia 2027 – Etapa 5: Filottrano → Sarnano-Sassotetto
+LOCATION:Filottrano
+DESCRIPTION:139 km · Gorska · Ura starta še ni znana\nhttps://thaddboco
+ de.github.io/grandtours/sl/giro/2027/stages/5/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/5/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-6@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:Giro d'Italia 2027 – Etapa 6: Alba Adriatica → Lanciano
+LOCATION:Alba Adriatica
+DESCRIPTION:148 km · Razgibana · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/6/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/6/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-7@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:Giro d'Italia 2027 – Etapa 7: Sulmona → Campo di Giove
+LOCATION:Sulmona
+DESCRIPTION:19.6 km · Posamični kronometer · Ura starta še ni znana\nh
+ ttps://thaddbocode.github.io/grandtours/sl/giro/2027/stages/7/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/7/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-8@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Giro d'Italia 2027 – Etapa 8: Trasacco → Neapelj
+LOCATION:Trasacco
+DESCRIPTION:219 km · Ravninska · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/8/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/8/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-9@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Giro d'Italia 2027 – Etapa 9: Itri → Subiaco-Monte Livata
+LOCATION:Itri
+DESCRIPTION:180 km · Gorska · Ura starta še ni znana\nhttps://thaddboco
+ de.github.io/grandtours/sl/giro/2027/stages/9/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/9/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-10@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:Giro d'Italia 2027 – Etapa 10: Palombara Sabina → Norcia
+LOCATION:Palombara Sabina
+DESCRIPTION:218 km · Razgibana · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/10/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/10/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-11@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Giro d'Italia 2027 – Etapa 11: Gualdo Tadino → Scarperia (Auto
+ dromo del Mugello)
+LOCATION:Gualdo Tadino
+DESCRIPTION:220 km · Ravninska · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/11/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/11/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-12@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:Giro d'Italia 2027 – Etapa 12: Montecatini Terme → Zeri (Loc. 
+ Passo dei Due Santi)
+LOCATION:Montecatini Terme
+DESCRIPTION:173 km · Gorska · Ura starta še ni znana\nhttps://thaddboco
+ de.github.io/grandtours/sl/giro/2027/stages/12/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/12/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-13@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Giro d'Italia 2027 – Etapa 13: Borgo Val di Taro → Reggio Emil
+ ia
+LOCATION:Borgo Val di Taro
+DESCRIPTION:176 km · Ravninska · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/13/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/13/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-14@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:Giro d'Italia 2027 – Etapa 14: Cantù Arena → Piani di Bobbio/
+ Valtorta
+LOCATION:Cantù Arena
+DESCRIPTION:187 km · Gorska · Ura starta še ni znana\nhttps://thaddboco
+ de.github.io/grandtours/sl/giro/2027/stages/14/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/14/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-15@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Giro d'Italia 2027 – Etapa 15: Monza (Autodromo Nazionale) → M
+ ilano
+LOCATION:Monza (Autodromo Nazionale)
+DESCRIPTION:37.3 km · Posamični kronometer · Ura starta še ni znana\nh
+ ttps://thaddbocode.github.io/grandtours/sl/giro/2027/stages/15/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/15/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-16@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:Giro d'Italia 2027 – Etapa 16: Sondrio → Aprica
+LOCATION:Sondrio
+DESCRIPTION:192 km · Gorska · Ura starta še ni znana\nhttps://thaddboco
+ de.github.io/grandtours/sl/giro/2027/stages/16/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/16/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-17@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Giro d'Italia 2027 – Etapa 17: Chiari → Vo'
+LOCATION:Chiari
+DESCRIPTION:194 km · Ravninska · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/17/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/17/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-18@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Giro d'Italia 2027 – Etapa 18: Rovereto → Madonna di Campiglio
+LOCATION:Rovereto
+DESCRIPTION:154 km · Gorska · Ura starta še ni znana\nhttps://thaddboco
+ de.github.io/grandtours/sl/giro/2027/stages/18/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/18/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-19@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:Giro d'Italia 2027 – Etapa 19: Rovereto → Sacile
+LOCATION:Rovereto
+DESCRIPTION:199 km · Razgibana · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/19/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/19/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-20@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:Giro d'Italia 2027 – Etapa 20: Pordenone → Monte Zoncolan
+LOCATION:Pordenone
+DESCRIPTION:180 km · Gorska · Ura starta še ni znana\nhttps://thaddboco
+ de.github.io/grandtours/sl/giro/2027/stages/20/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/20/
+END:VEVENT
+BEGIN:VEVENT
+UID:giro-2027-stage-21@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:Giro d'Italia 2027 – Etapa 21: Rim ↻
+LOCATION:Rim
+DESCRIPTION:131 km · Ravninska · Ura starta še ni znana\nhttps://thaddb
+ ocode.github.io/grandtours/sl/giro/2027/stages/21/
+URL:https://thaddbocode.github.io/grandtours/sl/giro/2027/stages/21/
+END:VEVENT
+END:VCALENDAR

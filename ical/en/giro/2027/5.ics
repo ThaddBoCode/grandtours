@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Giro d'Italia 2027
+BEGIN:VEVENT
+UID:giro-2027-stage-5@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Giro d'Italia 2027 – Stage 5: Filottrano → Sarnano-Sassotetto
+LOCATION:Filottrano
+DESCRIPTION:139 km · Mountain · Start time to follow\nhttps://thaddbocod
+ e.github.io/grandtours/en/giro/2027/stages/5/
+URL:https://thaddbocode.github.io/grandtours/en/giro/2027/stages/5/
+END:VEVENT
+END:VCALENDAR

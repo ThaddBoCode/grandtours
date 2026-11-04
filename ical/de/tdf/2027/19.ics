@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2027
+BEGIN:VEVENT
+UID:tdf-2027-stage-19@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:Tour de France 2027 – Etappe 19: Hasparren → Laruns
+LOCATION:Hasparren
+DESCRIPTION:160 km · Berg · Startzeit folgt\nhttps://thaddbocode.github.
+ io/grandtours/de/tdf/2027/stages/19/
+URL:https://thaddbocode.github.io/grandtours/de/tdf/2027/stages/19/
+END:VEVENT
+END:VCALENDAR

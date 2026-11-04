@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2027
+BEGIN:VEVENT
+UID:tdf-2027-stage-18@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:Tour de France 2027 – Stage 18: Pau → Saint-Lary-Soulan Col du
+  Portet
+LOCATION:Pau
+DESCRIPTION:174 km · Mountain · Start time to follow\nhttps://thaddbocod
+ e.github.io/grandtours/en/tdf/2027/stages/18/
+URL:https://thaddbocode.github.io/grandtours/en/tdf/2027/stages/18/
+END:VEVENT
+END:VCALENDAR

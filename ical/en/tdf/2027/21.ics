@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2027
+BEGIN:VEVENT
+UID:tdf-2027-stage-21@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:Tour de France 2027 – Stage 21: Saint-Quentin-en-Yvelines → Pa
+ ris Champs-Élysées
+LOCATION:Saint-Quentin-en-Yvelines
+DESCRIPTION:116 km · Flat · Start time to follow\nhttps://thaddbocode.gi
+ thub.io/grandtours/en/tdf/2027/stages/21/
+URL:https://thaddbocode.github.io/grandtours/en/tdf/2027/stages/21/
+END:VEVENT
+END:VCALENDAR

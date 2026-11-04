@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Giro d'Italia 2027
+BEGIN:VEVENT
+UID:giro-2027-stage-15@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Giro d'Italia 2027 – Stage 15: Monza (Autodromo Nazionale) → M
+ ilan
+LOCATION:Monza (Autodromo Nazionale)
+DESCRIPTION:37.3 km · Individual time trial · Start time to follow\nhttp
+ s://thaddbocode.github.io/grandtours/en/giro/2027/stages/15/
+URL:https://thaddbocode.github.io/grandtours/en/giro/2027/stages/15/
+END:VEVENT
+END:VCALENDAR

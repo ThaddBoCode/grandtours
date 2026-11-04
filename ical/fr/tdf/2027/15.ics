@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Tour de France 2027
+BEGIN:VEVENT
+UID:tdf-2027-stage-15@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:Tour de France 2027 – Étape 15: Rodez → Albi
+LOCATION:Rodez
+DESCRIPTION:169 km · Accidentée · Horaire à venir\nhttps://thaddbocode
+ .github.io/grandtours/fr/tdf/2027/stages/15/
+URL:https://thaddbocode.github.io/grandtours/fr/tdf/2027/stages/15/
+END:VEVENT
+END:VCALENDAR

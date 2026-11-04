@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Giro d'Italia 2027
+BEGIN:VEVENT
+UID:giro-2027-stage-3@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:Giro d'Italia 2027 – Tappa 3: Cervignano del Friuli → Possagno
+LOCATION:Cervignano del Friuli
+DESCRIPTION:163 km · Collinare · Orario da definire\nhttps://thaddbocode
+ .github.io/grandtours/it/giro/2027/stages/3/
+URL:https://thaddbocode.github.io/grandtours/it/giro/2027/stages/3/
+END:VEVENT
+END:VCALENDAR

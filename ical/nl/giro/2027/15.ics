@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Giro d'Italia 2027
+BEGIN:VEVENT
+UID:giro-2027-stage-15@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:Giro d'Italia 2027 – Etappe 15: Monza (Autodromo Nazionale) → 
+ Milaan
+LOCATION:Monza (Autodromo Nazionale)
+DESCRIPTION:37.3 km · Individuele tijdrit · Starttijd volgt\nhttps://tha
+ ddbocode.github.io/grandtours/nl/giro/2027/stages/15/
+URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/15/
+END:VEVENT
+END:VCALENDAR

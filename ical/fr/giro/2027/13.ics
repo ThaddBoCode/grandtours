@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Giro d'Italia 2027
+BEGIN:VEVENT
+UID:giro-2027-stage-13@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:Giro d'Italia 2027 – Étape 13: Borgo Val di Taro → Reggio Emi
+ lia
+LOCATION:Borgo Val di Taro
+DESCRIPTION:176 km · Plate · Horaire à venir\nhttps://thaddbocode.githu
+ b.io/grandtours/fr/giro/2027/stages/13/
+URL:https://thaddbocode.github.io/grandtours/fr/giro/2027/stages/13/
+END:VEVENT
+END:VCALENDAR

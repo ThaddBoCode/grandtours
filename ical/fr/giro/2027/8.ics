@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//grand-tours fan site//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Giro d'Italia 2027
+BEGIN:VEVENT
+UID:giro-2027-stage-8@grand-tours
+DTSTAMP:20261104T120723Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Giro d'Italia 2027 – Étape 8: Trasacco → Naples
+LOCATION:Trasacco
+DESCRIPTION:219 km · Plate · Horaire à venir\nhttps://thaddbocode.githu
+ b.io/grandtours/fr/giro/2027/stages/8/
+URL:https://thaddbocode.github.io/grandtours/fr/giro/2027/stages/8/
+END:VEVENT
+END:VCALENDAR
