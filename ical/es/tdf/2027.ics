@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Tour de France 2027
 BEGIN:VEVENT
 UID:tdf-2027-stage-1@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270703
 SUMMARY:Tour de France 2027 – Etapa 1: Edinburgh → Carlisle
@@ -17,7 +17,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/1/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-2@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
 SUMMARY:Tour de France 2027 – Etapa 2: Keswick → Liverpool
@@ -28,7 +28,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/2/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-3@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
 SUMMARY:Tour de France 2027 – Etapa 3: Welshpool → Cardiff
@@ -39,7 +39,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/3/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-4@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270707
 SUMMARY:Tour de France 2027 – Etapa 4: Cherbourg-en-Cotentin ↻
@@ -50,7 +50,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/4/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-5@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
 SUMMARY:Tour de France 2027 – Etapa 5: Pontorson → Plumelec
@@ -61,7 +61,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/5/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-6@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 SUMMARY:Tour de France 2027 – Etapa 6: Vannes → Angers
@@ -72,7 +72,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/6/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-7@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
 SUMMARY:Tour de France 2027 – Etapa 7: Blois → Chambord
@@ -83,7 +83,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/7/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-8@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
 SUMMARY:Tour de France 2027 – Etapa 8: Bourges → Le Creusot
@@ -94,7 +94,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/8/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-9@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
 SUMMARY:Tour de France 2027 – Etapa 9: Villars-les-Dombes Parc des Oisea
@@ -106,7 +106,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/9/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-10@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270713
 DTEND;VALUE=DATE:20270714
 SUMMARY:Tour de France 2027 – Etapa 10: Annecy → Sallanches
@@ -117,7 +117,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-11@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
 SUMMARY:Tour de France 2027 – Etapa 11: Cluses → Les Saisies
@@ -128,7 +128,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-12@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
 SUMMARY:Tour de France 2027 – Etapa 12: Chambéry → Valence
@@ -139,7 +139,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/12/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-13@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270717
 SUMMARY:Tour de France 2027 – Etapa 13: Aubenas → Montpellier
@@ -150,7 +150,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/13/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-14@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
 SUMMARY:Tour de France 2027 – Etapa 14: Montpellier → Mende
@@ -161,7 +161,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/14/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-15@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
 SUMMARY:Tour de France 2027 – Etapa 15: Rodez → Albi
@@ -172,7 +172,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/15/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-16@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:Tour de France 2027 – Etapa 16: Toulouse ↻
@@ -183,7 +183,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/16/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-17@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 SUMMARY:Tour de France 2027 – Etapa 17: Muret → Pau
@@ -194,7 +194,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/17/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-18@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270723
 SUMMARY:Tour de France 2027 – Etapa 18: Pau → Saint-Lary-Soulan Col du
@@ -206,7 +206,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/18/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-19@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270723
 DTEND;VALUE=DATE:20270724
 SUMMARY:Tour de France 2027 – Etapa 19: Hasparren → Laruns
@@ -217,7 +217,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/19/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-20@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
 SUMMARY:Tour de France 2027 – Etapa 20: Maubourguet → Libourne
@@ -228,7 +228,7 @@ URL:https://thaddbocode.github.io/grandtours/es/tdf/2027/stages/20/
 END:VEVENT
 BEGIN:VEVENT
 UID:tdf-2027-stage-21@grand-tours
-DTSTAMP:20261104T123009Z
+DTSTAMP:20261104T140756Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
 SUMMARY:Tour de France 2027 – Etapa 21: Saint-Quentin-en-Yvelines → Pa
