@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Giro d'Italia 2027
 BEGIN:VEVENT
 UID:giro-2027-stage-1@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Giro d'Italia 2027 – Etappe 1: Triëst ↻
@@ -17,7 +17,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/1/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-2@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Giro d'Italia 2027 – Etappe 2: Ljubljana → Koper
@@ -28,7 +28,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/2/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-3@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
 SUMMARY:Giro d'Italia 2027 – Etappe 3: Cervignano del Friuli → Possagn
@@ -40,7 +40,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/3/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-4@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 SUMMARY:Giro d'Italia 2027 – Etappe 4: Argenta → Misano Adriatico (Aut
@@ -52,7 +52,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/4/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-5@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 SUMMARY:Giro d'Italia 2027 – Etappe 5: Filottrano → Sarnano-Sassotetto
@@ -63,7 +63,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/5/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-6@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 SUMMARY:Giro d'Italia 2027 – Etappe 6: Alba Adriatica → Lanciano
@@ -74,7 +74,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/6/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-7@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 SUMMARY:Giro d'Italia 2027 – Etappe 7: Sulmona → Campo di Giove
@@ -85,7 +85,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/7/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-8@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 SUMMARY:Giro d'Italia 2027 – Etappe 8: Trasacco → Napels
@@ -96,7 +96,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/8/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-9@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 SUMMARY:Giro d'Italia 2027 – Etappe 9: Itri → Subiaco-Monte Livata
@@ -107,7 +107,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/9/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-10@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
 SUMMARY:Giro d'Italia 2027 – Etappe 10: Palombara Sabina → Norcia
@@ -118,7 +118,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/10/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-11@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 SUMMARY:Giro d'Italia 2027 – Etappe 11: Gualdo Tadino → Scarperia (Aut
@@ -130,7 +130,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/11/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-12@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:Giro d'Italia 2027 – Etappe 12: Montecatini Terme → Zeri (Loc.
@@ -142,7 +142,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/12/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-13@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
 SUMMARY:Giro d'Italia 2027 – Etappe 13: Borgo Val di Taro → Reggio Emi
@@ -154,7 +154,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/13/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-14@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
 SUMMARY:Giro d'Italia 2027 – Etappe 14: Cantù Arena → Piani di Bobbio
@@ -166,7 +166,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/14/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-15@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 SUMMARY:Giro d'Italia 2027 – Etappe 15: Monza (Autodromo Nazionale) → 
@@ -178,7 +178,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/15/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-16@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
 SUMMARY:Giro d'Italia 2027 – Etappe 16: Sondrio → Aprica
@@ -189,7 +189,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/16/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-17@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
 SUMMARY:Giro d'Italia 2027 – Etappe 17: Chiari → Vo'
@@ -200,7 +200,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/17/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-18@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:Giro d'Italia 2027 – Etappe 18: Rovereto → Madonna di Campigli
@@ -212,7 +212,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/18/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-19@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270529
 SUMMARY:Giro d'Italia 2027 – Etappe 19: Rovereto → Sacile
@@ -223,7 +223,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/19/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-20@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 SUMMARY:Giro d'Italia 2027 – Etappe 20: Pordenone → Monte Zoncolan
@@ -234,7 +234,7 @@ URL:https://thaddbocode.github.io/grandtours/nl/giro/2027/stages/20/
 END:VEVENT
 BEGIN:VEVENT
 UID:giro-2027-stage-21@grand-tours
-DTSTAMP:20261106T131758Z
+DTSTAMP:20261106T141145Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:Giro d'Italia 2027 – Etappe 21: Rome ↻
